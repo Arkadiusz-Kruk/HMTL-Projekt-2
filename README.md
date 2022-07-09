@@ -1,2 +1,2 @@
-# HMTL-Projekt-2
-HMTL Projekt 2
+# JS-team-projekt-grupa-4
+ 
